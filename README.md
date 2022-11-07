@@ -32,3 +32,22 @@ git add .
 git commit -m"first commit"
 
 git add . && git commit -m "updated Readme.md"
+
+Create Github Repo
+```
+http://github.com/
+```
+Do Git Remote
+```
+git remote add origin https://github.com/Shivan118/DVC-project.git
+```
+Git Branch
+````
+git branch -M main
+```
+Git Push
+```
+git push origin main
+```
+
+
