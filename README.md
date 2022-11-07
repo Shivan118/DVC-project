@@ -42,7 +42,8 @@ Do Git Remote
 git remote add origin https://github.com/Shivan118/DVC-project.git
 ```
 Git Branch
-````
+
+```
 git branch -M main
 ```
 Git Push
