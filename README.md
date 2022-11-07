@@ -22,6 +22,8 @@ iterative ai [https://iterative.ai/blog/iterative-studio-model-registry]
 
 Dataset link[https://drive.google.com/drive/folders/1KwOHdzKUy2tqJLWVascUM2IvBSi_9ksh?usp=share_link]
 
+Learning tox [https://toxn.readthedocs.io/en/latest/]
+
 git init
 
 dvc init
