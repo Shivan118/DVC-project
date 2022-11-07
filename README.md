@@ -16,6 +16,7 @@ pip install -r requirements.txt
 ```
 Learnirng Resources
 dvc[https://dvc.org/]
+
 iterative ai [https://iterative.ai/blog/iterative-studio-model-registry]
 
 
